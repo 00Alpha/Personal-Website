@@ -1,0 +1,173 @@
+/** tag selector**/
+body {
+  margin: 0;
+  background-color: #B5FFD9
+}
+.front-div {
+  background-color: #BCFFB9;
+  height: 950px;
+}
+.Mountain {
+  height: 50%;
+  width: 50%;
+  display: inline-block;
+  padding-top: 76px;
+}
+.x {
+  height: 200px;
+  width: 200px;
+  padding-left: 1000px;
+  position: absolute;
+  left: 490px;
+  top: 40px;
+}
+.mountain-cloud {
+  height: 150px;
+  width: 150px;
+  padding-left: 150px;
+}
+h1 {
+  font-family: Sofia;
+  margin-top: 70px;
+  color: #01937C;
+  font-size: 4rem;
+}
+
+/** tag selector**/
+/** class selector**/
+.img {
+  height: 100px;
+  width: 100px;
+  padding-left: 50px;
+  padding-top: 50px;
+}
+
+/** class selector**/
+/** tag selector**/
+h3 {
+  font-family: Sofia;
+  margin-top: 0px;
+  padding-top: 0px;
+  color: #01937C;
+  /** tag selector**/
+}
+.GET-IN-TOUCH{
+  font-family: Lato;
+}
+/** middle-div starts here**/
+.middle-div {
+  background-color: #66DE93;
+  height: 860px;
+}
+.Ahmed {
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   padding-top: 120px;
+}
+.biography {
+  font-family: lato;
+  color: #A73489;
+  font-size: 1.7rem;
+  text-align: center;
+  top: 1500px;
+  line-height: 2;
+  width: 30%;
+  padding-top: 58px;
+  margin: auto;
+}
+.skills{
+  height: 860px;
+}
+.My-skills{
+  text-align:center;
+  font-size: 4rem;
+  padding-top: 110px;
+  padding-bottom: 80px;
+
+}
+.skill-row{
+  width: 30%;
+  margin: 100px auto 100px auto;
+}
+.code{
+  width: 25%;
+  float: left;
+ margin-right:65px;
+}
+.code-write{
+  font-family:"lato", serif;
+  color:#5F7A61;
+  line-height: 1.5rem;
+  text-align: right;
+}
+.game{
+  width: 25%;
+  float: right;
+  margin-left:10px;
+}
+.game-write{
+  font-family:"lato", serif;
+  line-height: 2;
+  color:#5F7A61;
+}
+/** middle-div ends here**/
+.Design-development{
+  font-family: lato;
+  font-size: 2rem;
+  line-height: 1.4;
+}
+.dotted-hr{
+  border: dotted #CEE5D0 6px;
+  border-bottom: none;
+  width: 10%;
+  margin: 100px auto;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: lato;
+  color: #ffffff;
+  font-size: 20px;
+  background: #01937d;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.contact-me{
+  text-align: center;
+  padding-bottom: 140px;
+  line-height: 3;
+}
+a:hover {
+   color: #3A6351;
+   text-shadow: 0 1px;
+
+}
+.bottom-container{
+  background-color: #BCFFB9;
+  height: 200px;
+padding-top: 100px;
+}
+.If{
+  font-family: lato;
+color:#5F7A61;
+}
+.Scoial-media{
+  text-decoration:none;
+  padding-right: 70px;
+  font-family: lato;
+  color:#5F7A61;
+}
+.Scoial{
+  text-decoration:none;
+  font-family: lato;
+  color:#5F7A61;
+}
+.Rights{
+  padding-top:100px;
+  font-family: lato;
+  color:#5F7A61;
+  text-align: center;
+}
